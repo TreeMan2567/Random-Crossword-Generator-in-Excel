@@ -3,6 +3,12 @@ This system is created for revising just like with flashcards and as a proof tha
 
 It is possible to enter your own entries and clues as a base for generating crosswords.
 
+![image](./pictures/crossword-generation.gif)
+
+<br><br>
+
+![image](./pictures/solved-crossword.png)
+
 ## Unblocking Scripts 
 All excel scripts not written by current user are blocked by default, so first you need to unblock scripts in excel spreadsheet. To do so right-click excel file    
 Properties -> Security -> *Unblock*
