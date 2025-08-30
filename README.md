@@ -22,5 +22,5 @@ In ***Dictionary*** tab, you can freely change and add the entries and clues for
 
 You can also change how many lives you have as well as how many words do you wish for your crossword to have in ***Settings*** sheet at the bottom of your screen. All changes will be applied in next crossword generation.
 
-## How does it works
+## How does it work
 At the start, system choose first crossword entry randomly from ***Dictionary***, then it remembers in ***Possible Extensions*** sheet every cell where is a place to insert another entry. Then it recursevely chooses one of those letters and matches one of the words from dictonary until words count in ***Variables*** reaches max words setted in ***Settings***. During the whole process answers to crossword are built in ***Solution*** sheet and the clues for each entry are saved inside ***HintsTable***. At the end whole crossword is drawn onto the ***Crossword*** Sheet, based on ***Visuals***.
